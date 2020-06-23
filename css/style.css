@@ -17,14 +17,10 @@ body {
 }
 
 .header {
-  display: sticky;
-  background: #55adb7;
-}
-
-.container {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  background: #55adb7;
 }
 
 .logo {
